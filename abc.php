@@ -1,4 +1,5 @@
 <?php
  echo("here");
- die("her in");
+ die("her in");   
+ hmmm
 ?>
